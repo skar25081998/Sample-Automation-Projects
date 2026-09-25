@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Utilities\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumTests\\Utilities\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Tests\\LoginTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumTests\\Tests\\LoginTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\SeleniumTests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumTests\\SeleniumTests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\InventoryPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumTests\\Pages\\InventoryPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeleniumTests\\Pages\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Utilities\\TestBase.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\Utilities\\TestBase.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Utilities\\TestBase.cs",
+              "RelativeToolTip": "SeleniumTests\\Utilities\\TestBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:52:05.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeleniumTests.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\SeleniumTests.csproj",
+              "RelativeDocumentMoniker": "SeleniumTests\\SeleniumTests.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\SeleniumTests.csproj",
+              "RelativeToolTip": "SeleniumTests\\SeleniumTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-25T19:51:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\Pages\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "SeleniumTests\\Pages\\InventoryPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:51:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\Tests\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "SeleniumTests\\Tests\\LoginTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:52:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Sample-Automation-Projects\\SeleniumTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SeleniumTests\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:51:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
