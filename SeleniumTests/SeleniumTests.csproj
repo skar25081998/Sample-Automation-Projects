@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+	<TargetFramework>net8.0</TargetFramework>
+	<IsTestProject>true</IsTestProject>
+	<RootNamespace>SeleniumTests</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+	<PackageReference Include="NUnit" Version="3.13.3" />
+	<PackageReference Include="NUnit3TestAdapter" Version="4.3.1" />
+	<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.1" />
+	<PackageReference Include="Selenium.WebDriver" Version="4.10.0" />
+	<PackageReference Include="WebDriverManager" Version="2.17.7" />
+	<!-- Removed Selenium.WebDriver.ChromeDriver to allow Selenium Manager to provide matching driver at runtime -->
+  </ItemGroup>
+</Project>

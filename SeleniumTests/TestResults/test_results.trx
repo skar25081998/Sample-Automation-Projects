@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="29c9d4dc-de74-49da-bc15-dda80c2feedc" name="hp@LAPTOP-FBHHJOAH 2026-09-26 01:57:34" runUser="LAPTOP-FBHHJOAH\hp" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-09-26T01:57:34.5756377+05:30" queuing="2026-09-26T01:57:34.5756387+05:30" start="2026-09-26T01:57:30.7002801+05:30" finish="2026-09-26T01:57:37.8421706+05:30" />
+  <TestSettings name="default" id="8e6e04a2-8104-434d-af70-a809f5004ecb">
+    <Deployment runDeploymentRoot="hp_LAPTOP-FBHHJOAH_2026-09-26_01_57_34" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="ba732117-76b9-412f-917f-216dc9b836d4" testId="26a647cf-00ba-7377-9336-bc4d3c5cd00c" testName="LockedOutUser_ShouldShowErrorMessage" computerName="LAPTOP-FBHHJOAH" duration="00:00:02.4591570" startTime="2026-09-26T01:57:33.2002075+05:30" endTime="2026-09-26T01:57:35.6592989+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba732117-76b9-412f-917f-216dc9b836d4">
+      <Output>
+        <ErrorInfo>
+          <Message>System.InvalidOperationException : session not created: This version of ChromeDriver only supports Chrome version 116&#xD;
+Current browser version is 153.0.8010.53 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (SessionNotCreated)</Message>
+          <StackTrace>   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)&#xD;
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities desiredCapabilities)&#xD;
+   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)&#xD;
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)&#xD;
+   at SeleniumTests.Utilities.TestBase.SetUp() in C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\Utilities\TestBase.cs:line 20&#xD;
+   at InvokeStub_TestBase.SetUp(Object, Object, IntPtr*)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3936b0b6-7719-49d8-886f-6977ef89c9e2" testId="dc48800e-4a3c-b55a-818d-20cd0ce9b937" testName="InvalidPassword_ShouldShowErrorMessage" computerName="LAPTOP-FBHHJOAH" duration="00:00:01.7053080" startTime="2026-09-26T01:57:31.4928494+05:30" endTime="2026-09-26T01:57:33.1980333+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3936b0b6-7719-49d8-886f-6977ef89c9e2">
+      <Output>
+        <ErrorInfo>
+          <Message>System.InvalidOperationException : session not created: This version of ChromeDriver only supports Chrome version 116&#xD;
+Current browser version is 153.0.8010.53 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (SessionNotCreated)</Message>
+          <StackTrace>   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)&#xD;
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities desiredCapabilities)&#xD;
+   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)&#xD;
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)&#xD;
+   at SeleniumTests.Utilities.TestBase.SetUp() in C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\Utilities\TestBase.cs:line 20&#xD;
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ff2e5e6a-6150-414b-85ec-b65896e60de9" testId="9489f30c-db78-0883-a1af-b241ed8a2902" testName="SuccessfulLogin_ShouldNavigateToInventory" computerName="LAPTOP-FBHHJOAH" duration="00:00:01.9884870" startTime="2026-09-26T01:57:35.6594070+05:30" endTime="2026-09-26T01:57:37.6478400+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff2e5e6a-6150-414b-85ec-b65896e60de9">
+      <Output>
+        <ErrorInfo>
+          <Message>System.InvalidOperationException : session not created: This version of ChromeDriver only supports Chrome version 116&#xD;
+Current browser version is 153.0.8010.53 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (SessionNotCreated)</Message>
+          <StackTrace>   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)&#xD;
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities desiredCapabilities)&#xD;
+   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)&#xD;
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)&#xD;
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)&#xD;
+   at SeleniumTests.Utilities.TestBase.SetUp() in C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\Utilities\TestBase.cs:line 20&#xD;
+   at InvokeStub_TestBase.SetUp(Object, Object, IntPtr*)&#xD;
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="SuccessfulLogin_ShouldNavigateToInventory" storage="c:\users\hp\source\repos\sample-automation-projects\seleniumtests\bin\debug\net8.0\seleniumtests.dll" id="9489f30c-db78-0883-a1af-b241ed8a2902">
+      <Execution id="ff2e5e6a-6150-414b-85ec-b65896e60de9" />
+      <TestMethod codeBase="C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\bin\Debug\net8.0\SeleniumTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SeleniumTests.Tests.LoginTests" name="SuccessfulLogin_ShouldNavigateToInventory" />
+    </UnitTest>
+    <UnitTest name="InvalidPassword_ShouldShowErrorMessage" storage="c:\users\hp\source\repos\sample-automation-projects\seleniumtests\bin\debug\net8.0\seleniumtests.dll" id="dc48800e-4a3c-b55a-818d-20cd0ce9b937">
+      <Execution id="3936b0b6-7719-49d8-886f-6977ef89c9e2" />
+      <TestMethod codeBase="C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\bin\Debug\net8.0\SeleniumTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SeleniumTests.Tests.LoginTests" name="InvalidPassword_ShouldShowErrorMessage" />
+    </UnitTest>
+    <UnitTest name="LockedOutUser_ShouldShowErrorMessage" storage="c:\users\hp\source\repos\sample-automation-projects\seleniumtests\bin\debug\net8.0\seleniumtests.dll" id="26a647cf-00ba-7377-9336-bc4d3c5cd00c">
+      <Execution id="ba732117-76b9-412f-917f-216dc9b836d4" />
+      <TestMethod codeBase="C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\bin\Debug\net8.0\SeleniumTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="SeleniumTests.Tests.LoginTests" name="LockedOutUser_ShouldShowErrorMessage" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="26a647cf-00ba-7377-9336-bc4d3c5cd00c" executionId="ba732117-76b9-412f-917f-216dc9b836d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dc48800e-4a3c-b55a-818d-20cd0ce9b937" executionId="3936b0b6-7719-49d8-886f-6977ef89c9e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9489f30c-db78-0883-a1af-b241ed8a2902" executionId="ff2e5e6a-6150-414b-85ec-b65896e60de9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="0" failed="3" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 4.3.1.0: Test execution started&#xD;
+Running all tests in C:\Users\hp\source\repos\Sample-Automation-Projects\SeleniumTests\bin\Debug\net8.0\SeleniumTests.dll&#xD;
+   NUnit3TestExecutor discovered 3 of 3 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 50563&#xD;
+Only local connections are allowed.&#xD;
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.&#xD;
+ChromeDriver was started successfully.&#xD;
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 56167&#xD;
+Only local connections are allowed.&#xD;
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.&#xD;
+ChromeDriver was started successfully.&#xD;
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 64393&#xD;
+Only local connections are allowed.&#xD;
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.&#xD;
+ChromeDriver was started successfully.&#xD;
+NUnit Adapter 4.3.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
